@@ -1,9 +1,7 @@
 ## Conhecendo Node.JS
-    O NodeJs é um ambiente de execução do JavaScript em server side. Ele nos dá a possibilidade de rodar localmente o JavaScript fora
-do navegador. Todo navegador possui um interpretador de JavaScript rodando ali por trás dos panos para fazer as coisas funcionarem.
+    O NodeJs é um ambiente de execução do JavaScript em server side. Ele nos dá a possibilidade de rodar localmente o JavaScript fora do navegador. Todo navegador possui um interpretador de JavaScript rodando ali por trás dos panos para fazer as coisas funcionarem.
 
-    Em 2009 um estudante chamado Ryan Dahl criou o Node.js a partir do interpretador do navegador Chrome, o famoso JavaScript Engine V8.
-Com isso temos a possibilidade de rodar o JavaScript fora do navegador,diminuindo o processamento e trabalhando com interpretação em tempo real.
+    Em 2009 um estudante chamado Ryan Dahl criou o Node.js a partir do interpretador do navegador Chrome, o famoso JavaScript Engine V8. Com isso temos a possibilidade de rodar o JavaScript fora do navegador,diminuindo o processamento e trabalhando com interpretação em tempo real.
 
 ## Como o Node.js funciona?
     O node.js trabalha com single-thread, as requisições no node são assíncronas, agilizando assim a entrega.
